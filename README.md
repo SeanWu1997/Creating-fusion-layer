@@ -2,7 +2,7 @@
 Based on the ROS architecture, create a new layer to integrate external information other than LiDAR, and plug-in the costmap_2D to make the navigation information more complete.
 ## Steps
 1. $ cd ~/catkin_ws/src
-2. $ git clone
+2. $ git clone https://github.com/chenwueric1997/Creating-fusion-layer.git
 3. $ catkin_make
 ## Remark
 * fusion_msg
